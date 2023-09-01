@@ -10,6 +10,11 @@ li {
 }
 
 .content {
+    padding: 20px;
+    margin: 10px;
+    font-style: italic;
+    background-color: #424EDC;
+    color: #ffffff;
 }
 
 .active {
