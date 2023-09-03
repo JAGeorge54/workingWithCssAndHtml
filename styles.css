@@ -21,7 +21,7 @@ li {
 }
 
 .active {
-    
+    border-left: 5px solid #01e4ff; 
 }
 
 .footer {
